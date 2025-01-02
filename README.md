@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/atreyakamat" target="blank"><img src="https://img.shields.io/twitter/follow/atreyakamat?logo=twitter&style=for-the-badge" alt="atreyakamat" /></a> </p>
 
-- 📫 How to reach me **atkamat1204@gmail.com**
+- 📫 HOW to reach me **atkamat1204@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
